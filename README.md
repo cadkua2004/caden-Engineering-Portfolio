@@ -5,4 +5,7 @@ Welcome! This repository contains my engineering portfolio highlighting key proj
 
 
 ![Portfolio Screenshot](portfoliome.jpg)
+
+
+CoppeliaSim Robot 
 ![Demo](Recording%202026-01-27%20212524.gif)
