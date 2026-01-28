@@ -10,5 +10,5 @@ Welcome! This repository contains my engineering portfolio highlighting key proj
 CoppeliaSim Robot 
 ![Demo](Recording%202026-01-27%20212524.gif)
 
-![Demo](Recording%2026-01-27%212251.gif)
+![Demo](Recording%202026-01-27%212251.gif)
 
