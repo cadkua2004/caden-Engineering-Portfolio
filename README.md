@@ -8,10 +8,10 @@ Welcome! This repository contains my engineering portfolio highlighting key proj
 
 ## CoppeliaSim Robot
 
-<p align="center">
-  <img src="Recording%202026-01-27%20212524.gif" width="600" />
+<p align="left">
+  <img src="Recording%202026-01-27%20212524.gif" width="800" />
 </p>
 
-<p align="center">
-  <img src="Recording%202026-01-27%20212251.gif" width="600" />
+<p align="left">
+  <img src="Recording%202026-01-27%20212251.gif" width="800" />
 </p>
