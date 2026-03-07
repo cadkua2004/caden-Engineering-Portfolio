@@ -3,7 +3,7 @@ Welcome! This repository contains my engineering portfolio highlighting key proj
 
 ## Portfolio Presentation
 Click to view my Portfoilo:
-[**View**](Portfoilo_Ckuang.pdf)
+[**View**](Portfoilo_Sim.pdf)
 
 ![Portfolio Screenshot](portfoliome.jpg)
 
