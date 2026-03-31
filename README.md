@@ -1,13 +1,7 @@
-# Engineering-Portfolio
+# Engineering-Portfolio Welcome! This repository contains my engineering portfolio highlighting key projects.
 
-Welcome! This repository contains my engineering portfolio highlighting key projects.
-
-## Portfolio Presentation
-
-<h2>Click to view my Portfolio:</h2>
-
-[**View**](Portfolio_Ckuang_Change.pdf)
-
+## Portfolio Presentation 
+Click to view my Portfoilo: [**View**](Portfoilo_Ckuang_Change.pdf)
 ![Portfolio Screenshot](portfoliome.jpg)
 
 ## CoppeliaSim Robot
