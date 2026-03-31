@@ -2,6 +2,7 @@
 
 ## Portfolio Presentation 
 Click to view my Portfoilo: [**View**](Portfoilo_Ckuang_Change.pdf)
+
 ![Portfolio Screenshot](portfoliome.jpg)
 
 ## CoppeliaSim Robot
