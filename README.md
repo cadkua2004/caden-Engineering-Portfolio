@@ -1,9 +1,12 @@
 # Engineering-Portfolio
+
 Welcome! This repository contains my engineering portfolio highlighting key projects.
 
 ## Portfolio Presentation
-Click to view my Portfoilo:
-[**View**](Portfolio_Sim.pdf)
+
+<h2>Click to view my Portfolio:</h2>
+
+[**View**](Portfolio_Ckuang_Change.pdf)
 
 ![Portfolio Screenshot](portfoliome.jpg)
 
